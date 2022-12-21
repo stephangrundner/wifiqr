@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-WifiqrApplication<wifiqr>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "io.grundner.wifiqr.WifiqrApplication",
+            "projectName": "wifiqr",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
